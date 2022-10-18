@@ -21,7 +21,7 @@ const quizData = [
     correct: "a",
 },
 {
-  question: "Miška staví diamanty z lega. na kždý diamant použije 6 kostek lega. Kolik kostek lega potřebuje na 4 diamanty?",
+  question: "Miška staví diamanty z lega. Na každý diamant použije 6 kostek lega. Kolik kostek lega potřebuje na 4 diamanty?",
   a: "24",
   b: "30",
   
@@ -47,87 +47,87 @@ correct: "a",
   correct: "a",
 },
 {
-question: "Žába umí jezdit na kole.",
-a: "pravda",
-b: "lež",
+question: "Miška má v misce 25 kakaových cereálií a 26 karamelových cereálií. kolik cereálií má v misce dokopy?",
+a: "50",
+b: "51",
 
 correct: "b",
 },{
-  question: "Auta mají čtyři kola.",
-  a: "pravda",
-  b: "lež",
+  question: "Auta mají čtyři kola. Kolik kol má 5 aut?",
+  a: "20",
+  b: "18",
   
   correct: "a",
 },
 {
-question: "Lednice ohřívá jídlo.",
-a: "pravda",
-b: "lež",
+question: "Máma má 35 let. Táta je o dva roky mladší. Kolik roků mají dohromady?",
+a: "65",
+b: "68",
 
 correct: "b",
 },{
-  question: "Princezny nosí korunu na hlavě.",
-  a: "pravda",
-  b: "lež",
+  question: "Jeden pavák má 8 noh. Kolik noh mají dva pavouky?",
+  a: "16",
+  b: "18",
   
   correct: "a",
 },
 {
-question: "Mrkev a petržel jsou zelenina.",
-a: "pravda",
-b: "lež",
+question: "Kniha má 20 stránek. Miška každý den přečte 5 stránek. Za kolik dní přečte celou knížku?",
+a: "4",
+b: "5",
 
 correct: "a",
 },{
-  question: "Počítač potřebuje elektřinu.",
-  a: "pravda",
-  b: "lež",
+  question: "Táta nasbíral 3 tašky hub. V každé tašce bylo 10 hub. Kolik hub našel táta spolu?",
+  a: "30",
+  b: "20",
   
   correct: "a",
 },
 {
-question: "Kočka je malý hmyz.",
-a: "pravda",
-b: "lež",
+question: "Nad květinou lítalo 6 včel a 3 motýly. Kolikkrát víc bylo včel?",
+a: "3-krát",
+b: "2-krát",
 
 correct: "b",
 },{
-  question: "Vidlička, lžíce a nožík jsou příbor.",
-  a: "pravda",
-  b: "lež",
+  question: "Miška kreslí obrázky do knížky. Každý den jich nakreslí 5. Kolik obrázků nakreslí za 5 dní?",
+  a: "25",
+  b: "35",
   
   correct: "a",
 },
 {
-question: "Pampeliška je květ.",
-a: "pravda",
-b: "lež",
+question: "Na záhradě roste 5 tulipánů, 8 růží a 5 narcisů. Kolik květin je to dohromady?",
+a: "18",
+b: "16",
 
 correct: "a",
 },{
-  question: "Kluci rádi nosí sukně.",
-  a: "pravda",
-  b: "lež",
+  question: " 20 barbín vytvořilo dvojice. Kolik dvojic vzniklo?",
+  a: "12",
+  b: "10",
   
   correct: "b",
 },
 {
-question: "Děti si rádi hrají.",
-a: "pravda",
-b: "lež",
+question: "Miška má v peněžence pět 10-korun a dvě 5-koruny. Kolik má Miška korun?",
+a: "60",
+b: "50",
 
 correct: "a",
 },{
-  question: "Pejsek rád maluje štětcem.",
-  a: "pravda",
-  b: "lež",
+  question: "Martinka vyrostla na 100 centimetrů. Kolik je to metrů?",
+  a: "1",
+  b: "10",
   
-  correct: "b",
+  correct: "a",
 },
 {
-question: "Kočky loví myši.",
-a: "pravda",
-b: "lež",
+question: "Únor trvá přesně 4 týdny. Kolik je to dní?",
+a: "28",
+b: "32",
 
 correct: "a",
 },
