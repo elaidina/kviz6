@@ -8,10 +8,10 @@ const quizData = [
     },
     {
       question: "Barbi má 25 let. Ken je o 5 let starší. Kolik let je Kenovi?",
-      a: "24",
+      a: "30",
       b: "25",
       
-      correct: "b",
+      correct: "a",
   },
   {
     question: "Miška chce spravodlivě rozdělit 15 jahod mezi své 3 dcery. Kolik dostane každá?",
@@ -47,7 +47,7 @@ correct: "a",
   correct: "a",
 },
 {
-question: "Miška má v misce 25 kakaových cereálií a 26 karamelových cereálií. kolik cereálií má v misce dokopy?",
+question: "Miška má v misce 25 kakaových cereálií a 26 karamelových cereálií. Kolik cereálií má v misce dokopy?",
 a: "50",
 b: "51",
 
@@ -66,7 +66,7 @@ b: "68",
 
 correct: "b",
 },{
-  question: "Jeden pavák má 8 noh. Kolik noh mají dva pavouky?",
+  question: "Jeden pavouk má 8 noh. Kolik noh mají dva pavouky?",
   a: "16",
   b: "18",
   
@@ -86,7 +86,7 @@ correct: "a",
   correct: "a",
 },
 {
-question: "Nad květinou lítalo 6 včel a 3 motýly. Kolikkrát víc bylo včel?",
+question: "Nad květinou lítalo 6 včel a 3 motýly. Kolikrát víc bylo včel?",
 a: "3-krát",
 b: "2-krát",
 
